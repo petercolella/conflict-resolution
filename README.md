@@ -1,3 +1,3 @@
 # conflict-resolution
 
-## This is from local.
+## This is from GitHub.
